@@ -42,7 +42,7 @@
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,typescript,nodejs,tailwind,laravel,php,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,vscode,ts&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,javascript,nodejs,tailwind,laravel,php,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,vscode,ts&theme=dark&perline=9" />
 </p>
 
 <div align="center" style="max-width:720px; margin:auto;">
