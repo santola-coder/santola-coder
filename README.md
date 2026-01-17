@@ -94,7 +94,7 @@
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:.75rem; justify-content:center;">
   <a href="https://github.com/tolasan-dev/your-best-project-1"><img src="https://img.shields.io/badge/Vue%20%2B%20Nuxt%20App-58a6ff?style=for-the-badge&logo=vue.js&logoColor=white"/></a>
-  <a href="https://github.com/tolasan-dev/laravel-api"><img src="https://img.shields.io/badge/Laravel%20REST%20API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
+  <a href="https://github.com/tolasan-dev/laravel-api"><img src="https://img.shields.io/badge/Ant-App%20REST%20API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
   <a href="https://github.com/tolasan-dev/flutter-app"><img src="https://img.shields.io/badge/Flutter%20Mobile%20App-54C5F8?style=for-the-badge&logo=flutter&logoColor=white"/></a>
   <a href="https://github.com/tolasan-dev/typescript-project"><img src="https://img.shields.io/badge/TypeScript%20App-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <a href="https://github.com/tolasan-dev/nodejs-project"><img src="https://img.shields.io/badge/Node.js%20App-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
