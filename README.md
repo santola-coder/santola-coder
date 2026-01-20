@@ -1,144 +1,83 @@
-<!-- ================================================== -->
-
-<!-- Tola San — GitHub Profile README (Modern Edition) -->
-
-<!-- Design style: Tailwind-inspired (clean • sleek) -->
-
-<!-- Last update: Jan 2026 -->
-
-<!-- ================================================== -->
-
-<div align="center" style="padding: 2rem 1rem;">
-  <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2;">
-    👋 Hi, I’m <span style="color:#58A6FF;">Tola San</span>
-  </h1>
-  <p style="margin-top: .75rem; font-size: 1.1rem; color: #8b949e;">
-    Full-Stack Developer • Final-Year Computer Science Student (Class of 2026)
-  </p>
-  <p style="margin-top: .75rem; max-width: 640px;">
-    Turning <b>caffeine ☕</b> into <b>clean, scalable</b> & <b>user-loved</b> software.<br/>
-    Building modern <b>web</b> & <b>mobile</b> apps • Open to collaborations & internships.
-  </p>
-</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&text=Tola%20San&fontAlignY=40&fontSize=46&animation=twinkling&fontColor=ffffff" />
+
+  <!-- Eye-catching animated typing headline – modern font, subtle colors -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=1200&color=00D4FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Tola!;Full-Stack+Developer+%26+AI+Enthusiast;Crafting+scalable+experiences+from+Phnom+Penh+%F0%9F%8C%8F" alt="Animated typing headline" />
+  </h1>
+
+  <!-- Short confident tagline -->
+  <p>
+    <strong>Building performant web & AI-powered apps</strong> • 
+    Passionate about clean code, open source, and turning complex problems into elegant solutions.
+  </p>
+
+  <!-- Optional subtle visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=00D4FF&style=flat-square" alt="profile views" />
+
 </div>
 
----
+<br>
 
-## 🔗 Quick Connect
-
-<div align="center" style="display:flex; flex-wrap:wrap; gap:.5rem; justify-content:center;">
-  <a href="https://facebook.com/Tola.SanST"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://t.me/tolasannn369"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:tolasan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=tolasan-dev&label=Views&color=58a6ff&style=flat"/>
-  <img src="https://img.shields.io/github/followers/tolasan-dev?style=flat&color=58a6ff"/>
-</div>
-
----
-
-## 🧩 Tech Stack
+<!-- Skills – modern shields row, grouped logically, flat badges -->
+<h2 align="center">🛠  Core Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,javascript,nodejs,tailwind,laravel,php,mysql,flutter,dart,cs,dotnet,docker,git,github,postman,vscode,ts&theme=dark&perline=9" />
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
 </p>
 
-<div align="center" style="max-width:720px; margin:auto;">
-  <p style="color:#8b949e; text-align:center;">
-    I enjoy working across the stack — from elegant UI with <b>Vue/Nuxt + Tailwind</b>,
-    to robust backends using <b>Laravel</b> & <b>.NET</b>, smooth <b>TypeScript</b>-powered apps,
-    and mobile experiences with <b>Flutter</b>.
-  </p>
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center" style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolasan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center" style="margin-top:1rem;">
-  <img height="140" src="https://streak-stats.demolab.com?user=tolasan-dev&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🌌 Contribution Visuals
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=light" />
-    <img src="https://github-profile-3d-contrib.vercel.app/profile/tolasan-dev?theme=dark" width="80%" />
-  </picture>
-  <br/>
-  <small style="color:#8b949e;">3D contribution graph • auto-updated daily</small>
-</div>
-
-<p align="center" style="margin-top:1rem;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tolasan-dev/tolasan-dev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tolasan-dev/tolasan-dev/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/tolasan-dev/tolasan-dev/output/github-contribution-grid-snake.svg" width="70%" />
-  </picture>
+<p align="center">
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 </p>
 
----
+<br>
 
-## 🚀 Featured Projects
-
-<div align="center" style="display:flex; flex-wrap:wrap; gap:.75rem; justify-content:center;">
-  <a href="https://github.com/tolasan-dev/your-best-project-1">
-    <img src="https://img.shields.io/badge/Vue%20%2B%20Nuxt%20App-58a6ff?style=for-the-badge&logo=vue.js&logoColor=white"
-         style="border-radius:12px;" />
-  </a>
-
-  <a href="https://github.com/tolasan-dev/laravel-api">
-    <img src="https://img.shields.io/badge/Vuejs%20REST%20API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
-         style="border-radius:12px;" />
-  </a>
-
-  <a href="https://github.com/tolasan-dev/flutter-app">
-    <img src="https://img.shields.io/badge/Flutter%20Mobile%20App-54C5F8?style=for-the-badge&logo=Vue&logoColor=white"
-         style="border-radius:12px;" />
-  </a>
-
-  <a href="https://github.com/tolasan-dev/typescript-project">
-    <img src="https://img.shields.io/badge/TypeScript%20App-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-         style="border-radius:12px;" />
-  </a>
-
-  <a href="https://github.com/tolasan-dev/nodejs-project">
-    <img src="https://img.shields.io/badge/Node.js%20App-339933?style=for-the-badge&logo=node.js&logoColor=white"
-         style="border-radius:12px;" />
-  </a>
-</div>
-
-
----
-
-## 🤝 Let’s Build Together
-
-<div align="center" style="max-width:600px; margin:auto;">
-  <p style="font-size:1.05rem;">
-    Open to <b>collaborations</b>, <b>freelance</b>, <b>internships</b>, and exciting ideas.
-  </p>
-  <p style="color:#8b949e;">I usually reply within hours 🚀</p>
-
-  <a href="https://t.me/tolasannn369">
-    <img src="https://img.shields.io/badge/Say%20Hi%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
-
----
+<!-- Stats – balanced centered row, modern dark-friendly theme (radical / tokyonight / dracula work great) -->
+<h2 align="center">📈 Activity Snapshot</h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&text=Made%20with%20❤️%20%26%20☕&fontAlignY=45&fontSize=22&animation=fadeIn" />
-  <br/>
-  <small style="color:#8b949e;">Profile refreshed • January 2026</small>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="contribution streak" />
+</div>
+
+<br>
+
+<!-- What I'm working on – clean table with emoji progress feel -->
+<h2 align="center">🚀 Currently Building</h2>
+
+<div align="center">
+
+  | Project                          | Progress     | Tech Focus                          |
+  |----------------------------------|--------------|-------------------------------------|
+  | AI Task & Note Manager           | 🟢 90%       | Next.js 15 • Vercel AI • LangChain  |
+  | Open Design System / Component Lib | 🟡 60%     | React • Tailwind • Storybook • shadcn/ui |
+  | Personal Finance Tracker (self-use) | 🔵 Early   | Python FastAPI • PostgreSQL • React Native |
+
+</div>
+
+<br>
+
+<!-- Connect section – minimal, professional badges -->
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tola-XXX"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/tola_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://tola.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<br>
+
+<!-- Tasteful, subtle closing -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=A78BFA&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by+%E2%9C%A8;Grab+a+coffee+☕+and+let's+build+something+impactful" alt="closing typing" />
 </div>
