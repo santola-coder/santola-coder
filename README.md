@@ -11,8 +11,6 @@
     Crafting clean, responsive, Khmer-friendly apps with Vue/Nuxt, Flutter, Laravel & more.
   </p>
 
-  <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=00D4FF&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -51,35 +49,7 @@
 
 <br>
 
-<!-- Currently building section -->
-<h2 align="center">🚀 Currently Building</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Progress</th>
-      <th>Tech Focus</th>
-    </tr>
-    <tr>
-      <td>Khmer Master UI (Khmer-first component library)</td>
-      <td>🟢 70%</td>
-      <td>Vue 3 • Tailwind • shadcn/ui • Bootstrap-inspired</td>
-    </tr>
-    <tr>
-      <td>Personal Portfolio & Blog</td>
-      <td>🟡 50%</td>
-      <td>Nuxt 3 • Tailwind • Markdown • Khmer support</td>
-    </tr>
-    <tr>
-      <td>Mobile App for Local Community</td>
-      <td>🔵 Early</td>
-      <td>Flutter • Dart • Firebase • Khmer UI/UX</td>
-    </tr>
-  </table>
-</div>
-
-<br>
 
 <!-- Connect -->
 <h2 align="center">🌐 Let's Connect</h2>
