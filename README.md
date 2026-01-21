@@ -60,13 +60,6 @@ Junior Web Developer • Full-Stack Developer • Software Engineering
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolasan-dev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 
 <p align="center">
 🚀 Building modern sites with Tailwind CSS • Learning every day 
