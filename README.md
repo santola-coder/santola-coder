@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tol San</h1>
 
 <h3 align="center">
-Final-year Computer Science student at RULE <br/>
-Junior Web Developer • Frontend-Focused • Software Engineering Enthusiast
+Final-year Computer Science student at Royal University of Phnom Penh <br/>
+Junior Web Developer • Frontend-Focused • Software Engineering 
 </h3>
 
 <p align="center">
