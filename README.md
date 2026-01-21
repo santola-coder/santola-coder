@@ -67,17 +67,7 @@ Junior Web Developer • Full-Stack Developer • Software Engineering
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://facebook.com/san tola" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      height="30"
-      width="40" />
-  </a>
-</p>
-
----
 
 <p align="center">
-🚀 Building modern UIs with Tailwind CSS • Learning every day • Ready for real-world challenges
-</p>
+🚀 Building modern sites with Tailwind CSS • Learning every day 
+</p
