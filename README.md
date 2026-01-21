@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Final-year Computer Science student at Royal University of Phnom Penh <br/>
-Junior Web Developer • Frontend-Focused • Software Engineering 
+Junior Web Developer • Full-Stack Developer • Software Engineering 
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Junior Web Developer • Frontend-Focused • Software Engineering
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Final-year **Computer Science** student at RULE
+- 🎓 Final-year **Computer Science** student at  Royal University of Phnom Penh
 - 🔭 Currently building a **Blood Donation Management System**
 - 🎨 Frontend-focused with **Tailwind CSS** & component-based UI design
 - 🌱 Learning **JavaScript, TypeScript, Vue.js**
