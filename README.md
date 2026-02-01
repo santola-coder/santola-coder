@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tol San</h1>
 
 <h3 align="center">
-Final-year Computer Science student at Royal University of Phnom Penh <br/>
-Junior Web Developer • Full-Stack Developer • Software Engineering 
+Junior Full-Stack Developer 
 </h3>
 
 <p align="center">
