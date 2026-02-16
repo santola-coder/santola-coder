@@ -5,7 +5,7 @@ Junior Full-Stack Developer
 </h3>
 
 <p align="center">
-🎯 Actively seeking <strong>Junior Web Developer</strong> roles or <strong>Internships</strong>
+a Junior Full Stack JavaScript Developer. I build web applications using React and Vue.js for the frontend, and C# ASP.NET Web API for backend development. I’m passionate about learning, improving my skills, and creating clean, functional digital products.
 </p>
 
 <p align="center">
