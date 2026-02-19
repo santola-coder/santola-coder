@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final-year **Computer Science** student at Royal University of Phnom Penh  
-- 🔭 Currently stuying and building full-stack app with Spring Boot backend API integration  
+- 🔭 Currently building **ANT-APP** — full-stack app with Spring Boot backend API integration  
 - 🌱 Deepening skills in **Java, Spring Boot, PostgreSQL**, TypeScript & modern frontend  
 - 🎨 Love creating elegant, responsive UIs with **Tailwind CSS** and component-driven design  
 - 💡 Focused on clean architecture, performance, and practical real-world solutions  
