@@ -1,7 +1,7 @@
 <h1 align="center"> I'm ToLa San</h1>
 
 <h3 align="center">
-  Junior Full-Stack Developer | Java & Modern web
+  Junior Full-Stack Developer 
 </h3>
 
 
