@@ -1,20 +1,16 @@
-<h1 align="center">Hi there! 👋 I'm Tol San</h1>
+<h1 align="center"> I'm ToLa San</h1>
 
 <h3 align="center">
-  Junior Full-Stack Developer | Java & Modern Web Enthusiast
+  Junior Full-Stack Developer | Java & Modern web
 </h3>
 
-<p align="center">
-  Building clean, scalable web applications with modern JavaScript frameworks on the frontend and robust Java Spring Boot backends.  
-  Passionate about clean code, responsive UI/UX, performance, and turning ideas into real-world products.
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tolasan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/tolasan-dev">
+  <a href="https://github.com/tolasan-coder">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- Add LinkedIn, portfolio, email, etc. here when ready -->
@@ -63,36 +59,7 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend**  
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</div>
-
-**Backend & Core**  
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</div>
-
-**Databases**  
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-**Tools & Others**  
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</div>
+>
 
 ---
 
