@@ -10,10 +10,41 @@
 </p>
 
 <div align="center">
+  
+  <!-- GitHub -->
   <a href="https://github.com/tolasan-coder">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add LinkedIn, portfolio, email, etc. here when ready -->
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Portfolio Website -->
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/your-profile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
+
+
+
+ 
+
 </div>
 
 ---
@@ -28,40 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Adaptive dark/light mode stats card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <img alt="Tol San's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tolasan-dev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
-</a>
-
-<!-- Top languages card (also adaptive) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tolasan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolasan-dev&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  </picture>
-</a>
-
-</div>
-
-<div align="center">
-  <!-- Optional streak stats (very popular for showing consistency) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolasan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🛠️ Tech Stack
-
->
-
----
 
 ### 🎯 Currently Learning & Focus
 
@@ -72,7 +69,5 @@
 ---
 
 <p align="center">
-  🚀 Always learning, building, and pushing pixels + logic forward  
-  <br/><br/>
-  Let's connect and create something great!
+  🚀 Always learning, building 🌱
 </p>
