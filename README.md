@@ -22,28 +22,11 @@
   </a>
 
   <!-- Portfolio Website -->
-  <a href="https://your-portfolio.com">
+  <a href="https://portfolio-modern-tola.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 
-  <!-- Facebook -->
-  <a href="https://facebook.com/your-profile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-
-  <!-- Twitter / X -->
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
-  </a>
-
-
-
- 
 
 </div>
 
