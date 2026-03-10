@@ -1,56 +1,133 @@
-<h1 align="center"> I'm ToLa San</h1>
-
-<h3 align="center">
-  Junior Full-Stack Developer 
-</h3>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tolasan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <div align="center">
-  
-  <!-- GitHub -->
-  <a href="https://github.com/tolasan-coder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tola-san-969039312">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ToLa%20San&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Full-Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" />
 
-  <!-- Portfolio Website -->
-  <a href="https://portfolio-modern-tola.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-
-
+<img src="https://komarev.com/ghpvc/?username=tolasan-dev&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Final-year **Computer Science** student at Royal University of Phnom Penh  
-- 🔭 Currently building **ANT-APP** — API integration 
-- 🌱 Deepening skills in **Java, **C# .NET ASP.NET Web API Spring Boot, PostgreSQL**, TypeScript & modern frontend  
-- 🎨 Love creating elegant, responsive UIs with **Tailwind CSS** and component-driven design  
-- 💡 Focused on clean architecture, performance, and practical real-world solutions  
+### 🌐 Connect With Me
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tolasan-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tola-san-969039312)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-modern-tola.vercel.app)
 
-
-### 🎯 Currently Learning & Focus
-
-- **Backend:** C# ASP.NET Web API Java • Spring Boot (REST APIs, Security, JPA/Hibernate) • MYSQL  PostgreSQL  
-- **Frontend:** TypeScript • Vue.js / React • Tailwind CSS best practices  
-- Clean, maintainable code & real project architecture  
+</div>
 
 ---
 
-<p align="center">
-  🚀 Always learning, building 🌱
-</p>
+## 👨‍💻 About Me
+
+ToLa San — I'm a Junior Full-Stack Developer and final-year Computer Science student at the Royal University of Phnom Penh, based in 🇰🇭 Phnom Penh, Cambodia.
+I'm passionate about learning deeply and building real things — from writing clean backend APIs to crafting responsive, user-friendly interfaces. As a junior developer, I invest time in understanding the why behind every tool and concept I learn, so I can grow into an engineer who builds with purpose, not just syntax.
+On the backend, I'm currently learning and building with Node.js, Express.js, Spring Boot, and ASP.NET Web API. On the frontend, I build with Vue.js, React, TypeScript, and Tailwind CSS, backed by MySQL and PostgreSQL databases.
+Still early in my journey, but committed to showing up, digging in, and leveling up every day. ☕ → 💻
+
+---
+
+## 🎯 What I'm Building & Learning
+
+<table>
+<tr>
+<td width="50%">
+
+**🔧 Backend**
+- 🟢 **Node.js** · Express.js (REST APIs, Middleware, Auth)
+- ☕ **Java** · Spring Boot (REST, Security, JPA/Hibernate)
+- 🟣 **C#** · ASP.NET Web API
+- 🗄️ **MySQL** · PostgreSQL
+
+</td>
+<td width="50%">
+
+**🎨 Frontend**
+- 💚 **Vue.js** · React
+- 🔷 **TypeScript**
+- 💨 **Tailwind CSS** · Component-Driven Design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolasan-coder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolasan-coder&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tolasan-coder&theme=midnight-purple&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![ANT-APP](https://github-readme-stats.vercel.app/api/pin/?username=tolasan-coder&repo=ant-app&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/tolasan-coder)
+[![BloodHero Cambodia](https://github-readme-stats.vercel.app/api/pin/?username=tolasan-coder&repo=bloodhero-cambodia&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/tolasan-coder)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 A Little Philosophy
+
+> *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
+> — **Robert C. Martin**
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+**🚀 Always learning. Always building. 🌱**
+
+</div>
