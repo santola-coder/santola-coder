@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ToLa%20San&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Full-Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1f1f2e,100:2a2a3e007a8a24243e&height=200&section=header&text=ToLa%20San&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Full-Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" />
 
 <img src="https://komarev.com/ghpvc/?username=tolasan-dev&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
 
@@ -89,22 +89,6 @@ Still early in my journey, but committed to showing up, digging in, and leveling
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolasan-coder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolasan-coder&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tolasan-coder&theme=midnight-purple&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -125,8 +109,6 @@ Still early in my journey, but committed to showing up, digging in, and leveling
 > — **Robert C. Martin**
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 **🚀 Always learning. Always building. 🌱**
 
