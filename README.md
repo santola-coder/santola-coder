@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-ToLa San — I'm a Junior Full-Stack Developer and final-year Computer Science student at the Royal University of Phnom Penh, based in 🇰🇭 Phnom Penh, Cambodia.
+ToLa San — I'm a Junior Full-Stack Developer and final-year Computer Science student at the Royal University of Phnom Penh, 
 I'm passionate about learning deeply and building real things — from writing clean backend APIs to crafting responsive, user-friendly interfaces. As a junior developer, I invest time in understanding the why behind every tool and concept I learn, so I can grow into an engineer who builds with purpose, not just syntax.
 On the backend, I'm currently learning and building with Node.js, Express.js, Spring Boot, and ASP.NET Web API. On the frontend, I build with Vue.js, React, TypeScript, and Tailwind CSS, backed by MySQL and PostgreSQL databases.
 Still early in my journey, but committed to showing up, digging in, and leveling up every day. ☕ → 💻
