@@ -72,7 +72,7 @@ My goal is to grow into a strong backend engineer by consistently building real-
 * Implemented authentication using JWT
 * Focused on clean API structure and scalability
 
-### 🐜 ANT App
+### 🐜 ANT App https://ant-app-nu.vercel.app
 
 * Developed full-stack web application
 * Integrated frontend and backend components
