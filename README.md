@@ -1,10 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1f1f2e,100:2a2a3e007a8a24243e&height=200&section=header&text=ToLa%20San&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Junior%20Full-Stack%20Developer&descSize=22&descAlignY=60&animation=fadeIn" />
-
-<img src="https://komarev.com/ghpvc/?username=tolasan-dev&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views" />
-
-</div>
 
 
 
