@@ -28,6 +28,7 @@ My goal is to grow into a strong backend engineer by consistently building real-
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-fe9a00?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff6467?style=for-the-badge\&logo=Java\&logoColor=black)
 
 ---
 
