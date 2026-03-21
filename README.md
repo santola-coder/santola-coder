@@ -52,4 +52,4 @@ My goal is to grow into a strong backend engineer by consistently building real-
 
 ---
 
-🔴 Always learning. Always building.
+🔴 Always learning. Always building. Thinker 🧠. Builder 💻
