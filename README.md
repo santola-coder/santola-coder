@@ -29,8 +29,6 @@ My goal is to grow into a strong backend engineer by consistently building real-
 ![Java](https://img.shields.io/badge/Java-ff6467?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Also Working With**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
