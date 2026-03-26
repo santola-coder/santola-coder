@@ -4,15 +4,6 @@ Final-year Computer Science student at RUPP · Phnom Penh, Cambodia
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a junior full-stack developer with a deep interest in backend architecture and clean system design.
-I focus on building RESTful APIs with **Node.js** and **Express.js**, and I'm actively expanding into enterprise technologies like Java Spring Boot and ASP.NET Web API.
-
-I care about how systems work beneath the surface — from API design and authentication flows to database modeling and performance tuning.
-My goal is to grow into a strong backend engineer by consistently building real-world projects and improving my problem-solving skills.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,14 +31,4 @@ My goal is to grow into a strong backend engineer by consistently building real-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 💬 A Little Philosophy
-
-> *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
->
-> — Robert C. Martin
-
----
-
-🔴 Always learning. Always building. Thinker 🧠. Builder 💻
